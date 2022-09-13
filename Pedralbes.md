@@ -13,3 +13,4 @@ Benvinguts a la pàgina web de l'[institut](www.inspedralbes.cat).
  - Desplegament  
  - Interfícies  
  - Tutoria
+ - Pati
