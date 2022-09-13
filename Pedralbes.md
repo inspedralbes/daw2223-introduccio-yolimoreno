@@ -4,6 +4,7 @@ Benvinguts a la pàgina web de l'[institut](www.inspedralbes.cat).
  2. Ermengol
  3. Pol  
  4. Lolo
+ 5. Lola
    <!---Per tal de visualitzar un Markdown: Ctrl+Shift+V-->
   ## Assignatures
  - Projecte   
